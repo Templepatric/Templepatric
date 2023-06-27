@@ -20,18 +20,7 @@ And i'm learning on HTML, CSS, JAVASCRIPT and TYPESCRIPT.
 - 💞️ I’m looking to collaborate on ...looking more ways to learn 
 - 📫 How to reach me ...you can reach by twitter @kalumoses38560 linkedin linkedin.com/in/kanu-goodness-09b7b5265  Git  https://github.com/Templepatric
 
-My regular tasks involve:
 
-- Develop technical aspects of the company’s strategy to ensure alignment with its business goals 
-- Discovering, evaluating and implementing new technologies that yield a competitive advantage 
-- Retraining and recruiting developers, and building a great team
-- Helping Departments use technology profitably while monitoring compliance to company IT policy
-- Supervise system infrastructure to ensure functionality and efficiency 
-- Build quality assurance and data protection processes and capture data
-- Identifying and monitoring KPIs and IT budgets to assess technological performance 
-- Use stakeholders’ feedback to inform necessary improvements and adjustments to technology
-- Public speaking and running efficient meetings
-- Learning, Adapting, and Managing crises
 
 - Articles
 - https://github.com/Templepatric/js-project-Array
